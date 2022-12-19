@@ -104,7 +104,7 @@
 
 ### 3) I was not able to achieve the 75% target using this strategy.
 
-### 4) In optimization I went with 4 layers , the first 3 being Relu with 80, 20 and 10 neuron respectively.  The 4th layer was using the Sigmoid model with only 10 neurons.
+### 4) In optimization I went with 4 layers , the first 3 being Relu with 80, 20 and 10 neurons respectively.  The 4th layer was using the Sigmoid model with only 10 neurons.
 
 ### 5) I switched around Relu vs Sigmoiod and increased neurons.  I received slightly better results with fewer neurons.  The initial accuracy results was at 72%.  After optimization I was able to increase the accuracy to around 73%.
 
