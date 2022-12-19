@@ -35,55 +35,55 @@
 
 ### Read Charity Data
 
-!
+![__](https://github.com/Johnnytoobadman/Neural_Network_Charity_Analysis/blob/main/Images/01.png)
 
 ### Drop EIN and Name
 
-!
+![__](https://github.com/Johnnytoobadman/Neural_Network_Charity_Analysis/blob/main/Images/02.png)
 
 ### Unique Values
 
-!
+![__](https://github.com/Johnnytoobadman/Neural_Network_Charity_Analysis/blob/main/Images/03.png)
 
 ### Counts for Binning
 
-!
+![__](https://github.com/Johnnytoobadman/Neural_Network_Charity_Analysis/blob/main/Images/04.png)
 
 ### Value Counts Plot
 
-!
+![__](https://github.com/Johnnytoobadman/Neural_Network_Charity_Analysis/blob/main/Images/04.png)
 
 ### Application Counts
 
-!
+![__](https://github.com/Johnnytoobadman/Neural_Network_Charity_Analysis/blob/main/Images/06.png)
 
 ### Application Value Counts
 
-!
+![__](https://github.com/Johnnytoobadman/Neural_Network_Charity_Analysis/blob/main/Images/07.png)
 
 ### Visualize Value Counts
 
-!
+![__](https://github.com/Johnnytoobadman/Neural_Network_Charity_Analysis/blob/main/Images/08.png)
 
 ### Classifications
 
-!
+![__](https://github.com/Johnnytoobadman/Neural_Network_Charity_Analysis/blob/main/Images/09.png)
 
 ### Categorizations
 
-!
+![__](https://github.com/Johnnytoobadman/Neural_Network_Charity_Analysis/blob/main/Images/10.png)
 
 ### Encoded DataFrames
 
-!
+![__](https://github.com/Johnnytoobadman/Neural_Network_Charity_Analysis/blob/main/Images/11.png)
 
 ### Train and Evaluate (note low accuracy)
 
-!
+![__](https://github.com/Johnnytoobadman/Neural_Network_Charity_Analysis/blob/main/Images/12.png)
 
 ### Optimized Model (note slightly improved accuracy)
 
-!
+![__](https://github.com/Johnnytoobadman/Neural_Network_Charity_Analysis/blob/main/Images/13.png)
 
 
 ## SUMMARY
